@@ -1,3 +1,5 @@
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace AuctionService.Entities;
 
 public enum ItemCategory
@@ -86,6 +88,7 @@ public enum GenderType
 }
 
 // Main item entity
+[Table("Items")]
 public class Item
 {
     public Guid Id { get; set; }
