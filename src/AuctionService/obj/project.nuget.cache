@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5+QpsjRIOPc=",
+  "dgSpecHash": "epQCbpd7GVM=",
   "success": true,
   "projectFilePath": "/Users/tuananhpham/Xclusiv/src/AuctionService/AuctionService.csproj",
-  "expectedPackageFiles": [
-    "/Users/tuananhpham/.nuget/packages/microsoft.aspnetcore.openapi/9.0.4/microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
-    "/Users/tuananhpham/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
